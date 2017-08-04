@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <math.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 #define MAXSTACK    30
 
